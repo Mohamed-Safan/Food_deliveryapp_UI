@@ -3,13 +3,7 @@
 
 //
 //  Created by Safan on 2023-08-24.
-//
-//
-//  Card.swift
-//  Food
-//
-//  Created by BqNqNNN on 7/13/20.
-//
+
 
 import Foundation
 
