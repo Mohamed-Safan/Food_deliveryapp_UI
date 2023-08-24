@@ -15,8 +15,7 @@ struct HomeView: View {
             ScrollView(.vertical, showsIndicators: false) {
                 VStack {
                     SearchBar()
-                    
-                    //TrendingWeek
+                
                     VStack{
                         HStack {
                             Text("Suggestions")
@@ -97,7 +96,7 @@ struct HomeView: View {
                     .shadow(radius: 1)
                     .opacity(self.hero ? 0 : 1)
                     
-                    //Our picks
+                 
                     VStack{
                         HStack {
                             Text("Our picks")
